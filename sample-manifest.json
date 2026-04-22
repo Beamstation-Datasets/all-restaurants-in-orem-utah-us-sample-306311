@@ -1,12 +1,12 @@
 {
-  "export_job_id": "50a68e6b-fbc3-4a31-9034-7ed9c45e031e",
+  "export_job_id": "4d7c5a2b-3fbf-49f2-946d-26905f938975",
   "id_short": 306311,
-  "published_at": "2026-04-17T19:16:49Z",
+  "published_at": "2026-04-22T07:20:08Z",
   "repo_name": "all-restaurants-in-orem-utah-us-sample-306311",
   "sample_asset_name": "beamstation_306311_restaurants-us-ut_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/306311/beamstation_306311_restaurants-us-ut_SAMPLE_DIST.csv",
-  "sample_records": 29,
-  "sample_sha256": "511ef01f909115b04a9205698547a988041e0f66c39df874c98bf8cc4659f74d",
-  "sample_size_bytes": 121283,
-  "total_records": 299
+  "sample_records": 24,
+  "sample_sha256": "2e7e747e5e9b1d814fef91976f8d3dac8b57461ece6f7d33dfcb6e03f48fb422",
+  "sample_size_bytes": 105990,
+  "total_records": 244
 }

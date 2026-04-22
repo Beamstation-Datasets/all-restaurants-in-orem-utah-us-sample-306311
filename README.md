@@ -1,6 +1,6 @@
 # All Restaurants in Orem, Utah, US
 
-> Free BeamStation sample export with 29 rows and masked direct-contact fields.
+> Free BeamStation sample export with 24 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `306311` |
 | Location | Orem |
 | Category | Restaurants |
-| Full dataset size | 299 records |
-| Free sample size | 29 records (9.7%) |
-| Last export | 2026-04-14T18:47:12.023549+00:00 |
+| Full dataset size | 244 records |
+| Free sample size | 24 records (9.84%) |
+| Last export | 2026-04-21T20:40:40.839441+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-orem-utah-us-sample-306311/releases/download/sample-latest/beamstation_306311_restaurants-us-ut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
